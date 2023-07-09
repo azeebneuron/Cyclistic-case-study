@@ -11,8 +11,8 @@ SELECT ride_id,
  ORDER BY ride_id DESC
 
 
- --Creating Quarter
- CREATE TABLE cyclistic.QUARTER1 AS
+ --Creating Quarter by combining 3 months into one
+CREATE TABLE cyclistic.QUARTER1 AS
 SELECT* FROM `my-project-1-373317.cyclistic.JAN`
 UNION ALL
 SELECT * FROM `my-project-1-373317.cyclistic.FEB`
