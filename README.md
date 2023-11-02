@@ -14,9 +14,9 @@ Cyclistic is an imaginary bike-sharing company that operates in Chicago, Illinoi
 Cyclistic has two types of customers: annual members and casual customers. The director of marketing believes that the company's future success depends on maximizing the number of  annual members.
 
 ## The Questions
-How do annual members and casual riders use Cyclistic bikes differently? <br>
-Why would casual riders buy Cyclistic annual memberships?<br>
-How can Cyclistic use digital media to influence casual riders to become members?<br>
+* How do annual members and casual riders use Cyclistic bikes differently? <br>
+* Why would casual riders buy Cyclistic annual memberships?<br>
+* How can Cyclistic use digital media to influence casual riders to become members?<br>
 At first, I felt tense about how I could answer all these questions, considering that I had just completed the certification and my knowledge was limited. However, I decided to invest some time in reading the objectives and approached the task by starting with some basic questions in my mind. As I progressed, I began to understand that I had all the necessary knowledge to find the answers. I realised that I just needed to connect the little pieces I knew in order to create a method to answer the questions.
 
 ## The Data
